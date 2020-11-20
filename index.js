@@ -44,12 +44,12 @@ n--
 }
 
 function makeInt(n) {
-  parseInt(n)
+  parseInt(n,10)
   return(n)
 }
 
 function parseDecimal (n) {
-  parseDecimal(n)
+  parseFloat(n)
   return(n)
 }
 
