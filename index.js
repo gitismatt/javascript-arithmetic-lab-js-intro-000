@@ -53,7 +53,4 @@ function parseDecimal (n) {
   return(n)
 }
 
-function makeInt(n) {
-  makeInt(n)
-  return(n)
-}
+
