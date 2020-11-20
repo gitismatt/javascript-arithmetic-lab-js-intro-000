@@ -52,5 +52,3 @@ function parseDecimal (n) {
   parseFloat(n)
   return(n)
 }
-
-
