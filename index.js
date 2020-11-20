@@ -42,3 +42,13 @@ function decrement(n) {
 n--
   return (n)
 }
+
+function makeInt(n) {
+  parseInt(n)
+  return(n)
+}
+
+function parseDecimal (n) {
+  parseDecimal(n)
+  return(n)
+}
