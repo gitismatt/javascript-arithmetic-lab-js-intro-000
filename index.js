@@ -52,3 +52,8 @@ function parseDecimal (n) {
   parseDecimal(n)
   return(n)
 }
+
+function makeInt(n) {
+  makeInt(n)
+  return(n)
+}
